@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20180320_joystick_degree_test", "20180320_joystick_degree_test.csproj", "{F7469A30-B7F4-B8DB-7795-82A1FC73DB18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20180320_joystick_degree_test.Editor", "20180320_joystick_degree_test.Editor.csproj", "{66D893BF-F0C9-1014-E01E-A674F804E123}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7469A30-B7F4-B8DB-7795-82A1FC73DB18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7469A30-B7F4-B8DB-7795-82A1FC73DB18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7469A30-B7F4-B8DB-7795-82A1FC73DB18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7469A30-B7F4-B8DB-7795-82A1FC73DB18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66D893BF-F0C9-1014-E01E-A674F804E123}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66D893BF-F0C9-1014-E01E-A674F804E123}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66D893BF-F0C9-1014-E01E-A674F804E123}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66D893BF-F0C9-1014-E01E-A674F804E123}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
